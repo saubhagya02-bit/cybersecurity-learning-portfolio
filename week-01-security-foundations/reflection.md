@@ -1,0 +1,11 @@
+# Week 1 Reflection: Cybersecurity Foundations
+
+During the first week of my cybersecurity learning program I learned more about the basic concepts that make up the foundation of information security. Before learning about these concepts I thought cybersecurity was mostly about protecting systems from hackers and malware. But I found out that Cybersecurity is a much bigger field, that is concerned with protecting information, systems, services and users from various threats and risks.
+
+One of the most important things I learned was the CIA triad, which is Confidentiality, Integrity and Availability. Confidentiality means that data can only be accessed by authorized users. Integrity means that data is accurate and has not been changed by unauthorized parties. Availability means that systems and data are accessible when required. I learned that all three of these principles can be affected by different types of security incidents and that all three of these need to be taken into account to ensure security is effective.
+
+I also learned the difference between assets, threats, vulnerabilities and risks. An asset is something valuable that you want to protect. A threat is something that can do harm. A vulnerability is a weakness that a threat can exploit. Risk is the likelihood of a threat exploiting a vulnerability and the impact of that. Understanding how they relate to each other has helped me to start thinking about cybersecurity in a more structured way, rather than just recognizing attacks.
+
+Another important point was the security controls. I found out that these controls can be used to prevent, detect, respond and recover from security incidents. Examples are authentication, data encryption, control of access, monitoring, firewalls, and backups. I also learned the difference between authentication and authorization. Authentication is about identifying the user, and authorization is about what the authenticated user is allowed to do or access.
+
+Finally, I learned about the **defense-in-depth** approach. Instead of relying on a single security mechanism, organizations should employ multiple layers of security. If one control measure fails, another can provide additional protection.
