@@ -35,9 +35,7 @@ The `whoami` command displays the username of the currently logged-in user.
 
 ### Output
 
-```text
-![whoami](screenshots/whoami.png)
-```
+![whoami](./screenshots/whoami.png)
 
 ### Observation
 
@@ -63,9 +61,7 @@ The `pwd` command means "print working directory." It displays the current locat
 
 ### Output
 
-```text
-![pwd](screenshots/pwd.png)
-```
+![pwd](./screenshots/pwd.png)
 
 ### Observation
 
@@ -91,9 +87,7 @@ The `ls -la` command displays the contents of a directory in detailed format, in
 
 ### Output
 
-```text
-![ls -la](screenshots/ls -ls.png)
-```
+![ls -la](./screenshots/ls-la.png)
 
 ### Observation
 
@@ -119,9 +113,7 @@ The `id` command displays information about the current user's identity, includi
 
 ### Output
 
-```text
-![id](screenshots/id.png)
-```
+![id](./screenshots/id.png)
 
 ### Observation
 
@@ -147,9 +139,7 @@ The `ip addr` command displays network interfaces and their IP address informati
 
 ### Output
 
-```text
-![ip addr](screenshots/ip addr.png)
-```
+![ip addr](./screenshots/ip_addr.png)
 
 ### Observation
 
@@ -175,9 +165,7 @@ The `ip route` command displays the system's routing table and shows how network
 
 ### Output
 
-```text
-![ip route](screenshots/ip route.png)
-```
+![ip route](./screenshots/ip_route.png)
 
 ### Observation
 
@@ -203,12 +191,10 @@ The `ps aux` command displays information about currently running processes.
 
 ### Output
 
-```text
-![ps aux1](screenshots/ps aux1.png)
-![ps aux2](screenshots/ps aux2.png)
-![ps aux3](screenshots/ps aux3.png)
-![ps aux4](screenshots/ps aux4.png)
-```
+![ps aux1](./screenshots/ps_aux1.png)
+![ps aux2](./screenshots/ps_aux2.png)
+![ps aux3](./screenshots/ps_aux3.png)
+![ps aux4](./screenshots/ps_aux4.png)
 
 ### Observation
 
@@ -248,9 +234,7 @@ The options mean:
 
 ### Output
 
-```text
-![ss -tuln](screenshots/ss -tuln.png)
-```
+![ss -tuln](./screenshots/ss-tuln.png)
 
 ### Observation
 
@@ -280,9 +264,7 @@ The `df -h` command displays filesystem disk-space usage in a human-readable for
 
 ### Output
 
-```text
-![df -h](screenshots/df -h.png)
-```
+![df -h](./screenshots/df-h.png)
 
 ### Observation
 
@@ -312,9 +294,7 @@ The `free -h` command displays information about memory and swap usage in a huma
 
 ### Output
 
-```text
-![free -h](screenshots/free -h.png)
-```
+![free -h](./screenshots/free-h.png)
 
 ### Observation
 
@@ -340,11 +320,9 @@ This command lists services that are currently running on the Ubuntu system.
 
 ### Output
 
-```text
-![system1](screenshots/system1.png)
-![system2](screenshots/system2.png)
-![system3](screenshots/system3.png)
-```
+![system1](./screenshots/system1.png)
+![system2](./screenshots/system2.png)
+![system3](./screenshots/system3.png)
 
 ### Observation
 
@@ -377,9 +355,7 @@ The `journalctl -n 50` command displays the 50 most recent entries from the syst
 
 ### Output
 
-```text
-![journal1](screenshots/journal1.png)
-```
+![journal1](./screenshots/journal1.png)
 
 ### Observation
 
@@ -410,9 +386,7 @@ This command displays recent journal entries with warning priority and higher.
 
 ### Output
 
-```text
-![journal2](screenshots/journal2.png)
-```
+![journal2](./screenshots/journal2.png)
 
 ### Observation
 
