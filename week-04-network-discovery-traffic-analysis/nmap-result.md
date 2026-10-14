@@ -2,15 +2,15 @@
 
 ## Scan Information
 
-  Item              Result
-  ----------------- ------------------------------
-  Scanner           Nmap 7.991
-  Target            192.168.56.101
-  Scan type         Default Nmap scan
-  Date              2026-10-08
-  Target status     Host is up
-  Latency           0.010s
-  Ports not shown   999 closed TCP ports (reset)
+| Item | Result |
+|---|---|
+| Scanner | Nmap 7.991 |
+| Target | `192.168.56.101` |
+| Scan Type | Default Nmap Scan |
+| Date | 2026-10-08 |
+| Target Status | Host is up |
+| Latency | 0.010s |
+| Ports Not Shown | 999 closed TCP ports (reset) |
 
 ## Nmap Output
 
