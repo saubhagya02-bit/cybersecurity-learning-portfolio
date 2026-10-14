@@ -187,8 +187,3 @@ The activity was successfully completed:
 6.  The captured packets provide evidence of ICMP, ARP, and TCP
     communication.
 
-## Important Note
-
-The Nmap result shown in the evidence is a scan of the user's own Ubuntu
-VirtualBox VM at `192.168.56.101`. Nmap should only be used against
-systems and networks for which you have permission to perform testing.
