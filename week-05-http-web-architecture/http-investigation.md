@@ -32,7 +32,7 @@ The investigation was limited to ordinary browser interactions with the applicat
 6. Inspected the request's Headers, Preview, Response, Initiator, and Timing tabs.
 7. Repeated the same search later and compared the two requests.
 8. Reviewed the observed response headers, request headers, cookies, and CORS-related behaviour.
-9. Captured screenshots for evidence and identified screenshots that require redaction before publication.
+9. Captured screenshots for evidence.
 
 ## 4. Initial Page Load and Resource Dependencies
 
@@ -216,8 +216,6 @@ The main document request included a `Cookie` header containing `__stripe_mid` a
 
 No application session cookie or `Authorization` header was observed on the two captured product-search requests. The document's cookies and the search request's headers are different pieces of evidence and should not be treated as if they were the same request.
 
-**Privacy note:** Any screenshots showing cookie values, session identifiers, tokens, or other sensitive values must be redacted before being committed to GitHub.
-
 ## 7. Repeated Request Comparison
 
 The same search was repeated approximately seven minutes after the first request.
@@ -320,7 +318,7 @@ These findings distinguish observed behaviour from possible risks. None of the o
 
 ## 11. Evidence Index
 
-The following filenames describe the evidence referenced during the investigation. Confirm that each file exists in the repository and that its content matches the description before submitting the report.
+The following filenames describe the evidence referenced during the investigation.
 
 Files with a `_1` suffix were identified as the first image of their series. If you rename them when saving to `screenshots/`, update the names in this table to match the actual files.
 
@@ -343,8 +341,6 @@ Files with a `_1` suffix were identified as the first image of their series. If 
 | `05-repeated-request-comparison2.png` | Repeated request headers showing `If-None-Match`. |
 | `05-repeated-request-comparison3.png`–`6.png` | Repeated-request response, Initiator, Timing, and Preview evidence. Keep the screenshots needed to support claims in the report. |
 | `JS List.png` | JavaScript filter showing scripts, initiators, and cache-related information. |
-
-**Evidence hygiene:** Do not commit unredacted cookie values, access tokens, session identifiers, passwords, or other sensitive data. Redact them in screenshots and verify the saved copies before pushing to GitHub.
 
 ## 12. Limitations
 
