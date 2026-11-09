@@ -154,7 +154,7 @@ All other request components were intended to remain unchanged, including:
 
 | Field | Baseline | Comparison |
 |---|---|---|
-| Parameter | Accessories | Gifts |
+| Parameter | Accessories | Pets |
 | HTTP method | GET | GET |
 | Status code | 200 OK | 200 OK |
 | Response length | 4869 | 4854 |
