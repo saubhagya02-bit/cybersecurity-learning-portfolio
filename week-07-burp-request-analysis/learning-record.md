@@ -216,8 +216,6 @@ I also learned the importance of establishing a baseline before modifying a requ
 
 An important lesson was that observing a parameter or receiving a different HTTP response is not sufficient evidence of a vulnerability. Security conclusions must be based on reproducible observations, appropriate context, and consideration of alternative explanations.
 
-Finally, I learned that session cookies and authentication information must be handled carefully when collecting evidence for a cybersecurity portfolio.
-
 ## 12. Conclusion
 
 Week 7 provided practical experience with Burp Suite Community Edition and hypothesis-driven HTTP request analysis.
