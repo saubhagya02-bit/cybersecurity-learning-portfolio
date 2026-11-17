@@ -1,12 +1,14 @@
 # 🛡️ Cybersecurity Learning Portfolio
 
-\<p align="center">
-&#x20; \<strong>Learn • Practise • Investigate • Explain • Document\</strong>
-\</p>
+<p align="center">
+  <strong>Learn • Practise • Investigate • Explain • Document</strong>
+</p>
 
-\<p align="center">
-&#x20; A hands-on cybersecurity learning journey documenting practical exercises, security concepts, network analysis, Linux fundamentals, web application security, and security investigations.
-\</p>
+<p align="center">
+  A hands-on cybersecurity learning journey documenting practical exercises,
+  security concepts, network analysis, Linux fundamentals, web application
+  security, and security investigations.
+</p>
 
 ---
 
@@ -132,9 +134,6 @@ cybersecurity-learning-portfolio/
 │
 └── Future weekly folders and projects
 ```
-
-*The structure above represents the intended organisation of the portfolio. Files and folders may be added or updated as the project evolves.*
-
 ---
 
 ## 🧰 Tools and Technologies
@@ -206,4 +205,6 @@ My goal is to build a structured record of my cybersecurity learning journey and
 
 ---
 
-\<p align="center">   \<strong>Learning cybersecurity one concept, one lab, and one investigation at a time. 🚀\</strong> \</p>
+<p align="center">
+  <strong>Learning cybersecurity one concept, one lab, and one investigation at a time. 🚀</strong>
+</p>
